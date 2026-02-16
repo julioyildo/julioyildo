@@ -2,20 +2,12 @@
 
 Software Engineer & Data Engineer building SaaS, data systems, and AI-driven products.
 
-Currently focused on:
-- Scalable data pipelines (Python, GCP, BigQuery)
-- SaaS products & Chrome Extensions
-- Growth systems (Analytics, Ads, Tracking)
-- AI-powered tools
-
----
-
 ## What I Do
 
 I design and build end-to-end data and product systems:
 from ingestion → transformation → analytics → product integration.
 
-My background is in Data Engineering within marketing and SaaS environments, where I work with large-scale datasets (Search Console, Analytics, Ads) and turn them into actionable products.
+My background is in Software & Data Engineering within marketing and SaaS environments, where I work with large-scale datasets (Search Console, Analytics, Ads) and turn them into actionable products.
 
 I’m especially interested in:
 - Data infrastructure
