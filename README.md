@@ -26,40 +26,12 @@ I’m especially interested in:
 ---
 
 ## Current Projects
+- [Omny](https://app.get-omny.com/)
+- [CrossBrand](https://www.cross-brand.com/)
+- [ClearMindAi](https://clearmindapp.ai/)
+- [PassportPhoto](https://get-passport-photo.com/)
 
-**AI Chrome Extension (SaaS)**  
-Building a paid AI-powered browser extension focused on digital wellbeing and intelligent content filtering.
 
-**Marketing Data Platform**  
-Automated ELT pipelines connecting:
-- Google Search Console  
-- Google Analytics  
-- BigQuery  
-- Looker Studio  
-
-Optimized for scalability, low cost, and fast deployment.
-
----
-
-## Tech
-
-**Languages**  
-Python, SQL, TypeScript (learning)
-
-**Cloud & Data**  
-Google Cloud (BigQuery, GCS, Cloud Run)  
-Airbyte, DuckDB, PySpark  
-
-**Backend & SaaS**  
-FastAPI, Supabase, PostgreSQL  
-
-**Frontend (Learning & Building)**  
-Next.js, React  
-
-**Growth & Analytics**  
-Google Tag Manager, TikTok Pixel, Analytics Stack
-
----
 
 ## Philosophy
 
