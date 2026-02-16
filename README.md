@@ -49,7 +49,7 @@ Less theory, more shipped products.
 
 - Build a global SaaS product
 - Scale AI-powered tools
-- Eventually build a startup in the US / Silicon Valley
+- Eventually build a startup in the EU/US
 
 ---
 
