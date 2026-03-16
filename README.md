@@ -17,7 +17,7 @@ I’m especially interested in:
 
 ---
 
-## Current Projects
+## Contributed to
 - [Omny](https://app.get-omny.com/)
 - [CrossBrand](https://www.cross-brand.com/)
 - [BrandOS](https://www.primelis.com/fr/brand-os-fr/)
